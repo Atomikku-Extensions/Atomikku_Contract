@@ -9,6 +9,9 @@
     <PackageLicenseFile>LICENSE.md</PackageLicenseFile>
     <Title>Atomikku.Model.Extension</Title>
     <PackageReadmeFile>README.md</PackageReadmeFile>
+    <FileVersion></FileVersion>
+    <AssemblyVersion></AssemblyVersion>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
